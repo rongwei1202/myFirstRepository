@@ -6,3 +6,5 @@ test
 
 local conflict
 リモートのテスト　conflict
+
+local conflict1
