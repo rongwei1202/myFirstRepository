@@ -3,3 +3,4 @@
 test
 
 テストーリモート
+local conflict
