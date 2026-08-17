@@ -8,3 +8,4 @@ local conflict
 リモートのテスト　conflict
 
 local conflict1
+リモートのテスト　conflict1
